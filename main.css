@@ -6,6 +6,8 @@ body{
 	font-variant: normal;
 	font-weight: bold;
 	text-align: center;
+	background: #40E0D0;
+	color: #00FA9A;
 }
 .menu{
 	width: 50%;
