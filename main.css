@@ -14,7 +14,7 @@ body{
 	float: center;
 	padding:1% 0 0 0;
 }
-}
+
 ul{
 	list-style-type: none;
 	margin: 0 0 0 2%;
@@ -34,7 +34,7 @@ li a{
 	text-decoration: none;
 	margin: 0;
 }
-}
+
 a{
 	color: #7FFF00;
 }
