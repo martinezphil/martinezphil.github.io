@@ -12,3 +12,16 @@ body{
 	float: center;
 	padding:1% 0 0 0;
 }
+}
+ul{
+	list-style-type: none;
+	margin: 0 0 0 2%;
+	padding: 10px 0px;
+	width: 25%;
+	max-width: 350px;
+	min-width: 225px;
+	position: fixed;
+	overflow: auto;
+	background-color: #FF1493;
+	border: 5px double gold; 
+}
