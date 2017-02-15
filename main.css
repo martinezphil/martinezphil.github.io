@@ -27,6 +27,13 @@ ul{
 	background-color: #FF1493;
 	border: 5px double gold; 
 }
+li a{
+	display:block;
+	color: #2E4053;
+	padding: 8px 16px;
+	text-decoration: none;
+	margin: 0;
+}
 }
 a{
 	color: #FF1493;
