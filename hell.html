@@ -29,7 +29,7 @@
             'wmode': 'opaque',
             'showinfo': 0,
             'loop': 1,
-            'mute': 1,
+            'mute': 0,
             'cc_load_policy': 1,
           },
           height: '315',
@@ -42,7 +42,7 @@
         });
       }
       function onPlayerReady(event) {
-           event.target.setVolume(0);
+           event.target.setVolume(1);
        event.target.playVideo();
       }
       var done = false;
@@ -51,7 +51,7 @@
     //      setTimeout(stopVideo, 6000);
                   done = true;
         }
-           event.target.setVolume(0);
+           event.target.setVolume(1);
       }
 </script>
 
