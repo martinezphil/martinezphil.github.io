@@ -1,9 +1,11 @@
 
 body{
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-	font-size: 1em;
-	background: #2E4053;
-	color: #AAB0B7;
+	font-family: Papyrus, fantasy;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 19.8px;
 	text-align: center;
 }
 *{
