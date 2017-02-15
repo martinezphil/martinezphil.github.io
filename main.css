@@ -7,3 +7,8 @@ body{
 	font-weight: bold;
 	text-align: center;
 }
+.menu{
+	width: 50%;
+	float: center;
+	padding:45% 0 0 0;
+}
