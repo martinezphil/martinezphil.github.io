@@ -7,22 +7,3 @@ body{
 	font-weight: bold;
 	text-align: center;
 }
-*{
-	box-sizing:border-box;
-}
-.header{
-	width: 75%;
-	float: center;
-	padding: 15px;
-	height: 100%
-}
-.menu{
-	width: 25%;
-	float: center;
-	padding:15% 0 0 0;
-}
-.main{
-	width: 75%;
-	float: center;
-	padding: 15px
-}
